@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|d:\\muhammad aiman\\unity games\\buds saga\\assets\\script\\characterselect\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\characterselect\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\battle\\wavebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\wavebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\battle\\opponentbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\opponentbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\battle\\playerbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\playerbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\opponent\\oguopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opponent\\oguopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|d:\\muhammad aiman\\unity games\\buds saga\\assets\\script\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\battle\\statsupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\statsupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\player\\bamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bamplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\opponent\\biggieopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opponent\\biggieopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\opponent\\tappyopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opponent\\tappyopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\opponent\\bamopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opponent\\bamopponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\player\\biggieplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\biggieplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\player\\oguplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\oguplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\player\\tappyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\tappyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\assets\\script\\battle\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC75C3D-087B-D07C-9FE0-74B9E91F2990}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\MainMenu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu\\MainMenu.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\MainMenu\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu\\MainMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:26:12.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OguOpponent.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\OguOpponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Opponent\\OguOpponent.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\OguOpponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Opponent\\OguOpponent.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:29:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerBattle.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\PlayerBattle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\PlayerBattle.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\PlayerBattle.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\PlayerBattle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:35:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterSelect.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\CharacterSelect\\CharacterSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterSelect\\CharacterSelect.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\CharacterSelect\\CharacterSelect.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterSelect\\CharacterSelect.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwA4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:35:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpponentBattle.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\OpponentBattle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\OpponentBattle.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\OpponentBattle.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\OpponentBattle.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:53:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveBattle.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\WaveBattle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\WaveBattle.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\WaveBattle.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\WaveBattle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:35:36.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BiggieOpponent.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\BiggieOpponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Opponent\\BiggieOpponent.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\BiggieOpponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Opponent\\BiggieOpponent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:31:27.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BamPlayer.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\BamPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\BamPlayer.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\BamPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\BamPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:34:40.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatsUpgrade.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\StatsUpgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\StatsUpgrade.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\StatsUpgrade.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\StatsUpgrade.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwGwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:55:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TappyOpponent.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\TappyOpponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Opponent\\TappyOpponent.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\TappyOpponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Opponent\\TappyOpponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:30:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BamOpponent.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\BamOpponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Opponent\\BamOpponent.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Opponent\\BamOpponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Opponent\\BamOpponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:33:18.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BiggiePlayer.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\BiggiePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\BiggiePlayer.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\BiggiePlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\BiggiePlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:34:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OguPlayer.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\OguPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\OguPlayer.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\OguPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\OguPlayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:20:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TappyPlayer.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\TappyPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\TappyPlayer.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Player\\TappyPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\TappyPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:20:23.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\GameOver.cs",
+              "ToolTip": "D:\\Muhammad Aiman\\Unity Games\\Buds Saga\\Assets\\Script\\Battle\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\GameOver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:36:31.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
